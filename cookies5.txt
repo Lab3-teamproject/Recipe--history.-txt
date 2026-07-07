@@ -1,0 +1,9 @@
+# Commit 5 - BUG INTRODUCED! Temperature changed to 450°F
+cat > cookies.txt << 'EOF'
+CHOCOLATE CHIP COOKIES
+Ingredients: 2 cups flour, 1 cup butter, 1 cup sugar, 2 eggs, 2 cups chocolate chips
+Instructions: Mix butter and sugar, add eggs, mix in flour, fold in chocolate chips
+Temperature: 450°F
+Time: 12 minutes
+Yield: 24 cookies
+EOF
