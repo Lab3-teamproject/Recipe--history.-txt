@@ -1,4 +1,5 @@
 # Commit 1 - Original recipe
+
 cat > cookies.txt << 'EOF'
 CHOCOLATE CHIP COOKIES
 Ingredients: flour, butter, sugar, eggs, chocolate chips
