@@ -6,3 +6,5 @@ Instructions: Mix butter and sugar, add eggs, mix in flour, fold in chocolate ch
 Temperature: 350°F
 Time: 12 minutes
 EOF
+
+git commit -am "Commit 3: Add mixing instructions"
