@@ -7,3 +7,4 @@ Temperature: 450°F
 Time: 12 minutes
 Yield: 24 cookies
 EOF
+git commit -am "Commit 5: Update recipe format"
